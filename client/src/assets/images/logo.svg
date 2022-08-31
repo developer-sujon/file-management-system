@@ -1,0 +1,41 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 102" width="103" height="102">
+	<title>logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none } 
+		.t1 { font-size: 30px;fill: #004b1c;font-weight: 500;font-family: "Roboto-Medium", "Roboto" } 
+		.s2 { fill: none;stroke: #004b1c;stroke-width: 3 } 
+		.s3 { fill: none;stroke: #217346;stroke-width: 3 } 
+	</style>
+	<path id="Rectangle_7" class="s0" d="m-26 0h153v130h-153z"/>
+	<g id="IT_ASISTA">
+		<text id="   Storage" style="transform: matrix(1,0,0,1,-23,95.082)" >
+			<tspan x="0" y="0" class="t1"> </tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1">S</tspan><tspan  y="0" class="t1">t</tspan><tspan  y="0" class="t1">o</tspan><tspan  y="0" class="t1">r</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">g</tspan><tspan  y="0" class="t1">e
+</tspan>
+		</text>
+		<text id="" style="transform: matrix(1,0,0,1,33,95.082)" >
+		</text>
+	</g>
+	<g id="Group_3">
+		<text id="" style="transform: matrix(1,0,0,1,22,97.695)" >
+		</text>
+	</g>
+	<g id="Group_1">
+		<g id="Rectangle_1">
+			<path id="Layer" class="s0" d="m18 2.3c0-1.1 0.9-2 2-2h27c1.1 0 2 0.9 2 2v27c0 1.1-0.9 2-2 2h-27c-1.1 0-2-0.9-2-2z"/>
+			<path id="Layer" class="s2" d="m19.5 2.3c0-0.3 0.2-0.5 0.5-0.5h27c0.3 0 0.5 0.2 0.5 0.5v27c0 0.3-0.2 0.5-0.5 0.5h-27c-0.3 0-0.5-0.2-0.5-0.5z"/>
+		</g>
+		<g id="Rectangle_2">
+			<path id="Layer" class="s0" d="m51.7 2.3c0-1.1 0.9-2 2-2h27c1.1 0 2 0.9 2 2v27c0 1.1-0.9 2-2 2h-27c-1.1 0-2-0.9-2-2z"/>
+			<path id="Layer" class="s3" d="m53.2 2.3c0-0.3 0.2-0.5 0.5-0.5h27c0.3 0 0.5 0.2 0.5 0.5v27c0 0.3-0.2 0.5-0.5 0.5h-27c-0.3 0-0.5-0.2-0.5-0.5z"/>
+		</g>
+		<g id="Rectangle_3">
+			<path id="Layer" class="s0" d="m51.7 36c0-1.1 0.9-2 2-2h27c1.1 0 2 0.9 2 2v27c0 1.1-0.9 2-2 2h-27c-1.1 0-2-0.9-2-2z"/>
+			<path id="Layer" class="s2" d="m53.2 36c0-0.3 0.2-0.5 0.5-0.5h27c0.3 0 0.5 0.2 0.5 0.5v27c0 0.3-0.2 0.5-0.5 0.5h-27c-0.3 0-0.5-0.2-0.5-0.5z"/>
+		</g>
+		<g id="Rectangle_4">
+			<path id="Layer" class="s0" d="m18 36c0-1.1 0.9-2 2-2h27c1.1 0 2 0.9 2 2v27c0 1.1-0.9 2-2 2h-27c-1.1 0-2-0.9-2-2z"/>
+			<path id="Layer" class="s3" d="m19.5 36c0-0.3 0.2-0.5 0.5-0.5h27c0.3 0 0.5 0.2 0.5 0.5v27c0 0.3-0.2 0.5-0.5 0.5h-27c-0.3 0-0.5-0.2-0.5-0.5z"/>
+		</g>
+	</g>
+</svg>
